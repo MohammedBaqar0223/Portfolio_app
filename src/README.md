@@ -1,1 +1,2 @@
-
+# main code
+So these set of codes are basically the set of origin codes which guides the entire mobile app and web app. So the components file is used to store all the custom widgets that I have used, the routes file is used to communicate and navigate through the pages which are really helpfull for on pressed functions of some buttons and last but not the least the main file runs the foundation of the code.
