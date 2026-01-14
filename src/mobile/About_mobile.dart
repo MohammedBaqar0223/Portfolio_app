@@ -178,3 +178,4 @@ class _AboutMobileState extends State<AboutMobile> {
     );
   }
 }
+
